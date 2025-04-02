@@ -1,0 +1,179 @@
+.page__picture__perfect{
+    width: 1440px;
+height: 720px;
+margin-top: -60%;
+
+
+background-image: url(img/fon__page__picture__perfect.jpg);
+background-size:cover ;
+}
+.page__picture__perfect__fon{
+
+    width: 1440px;
+height: 809.516357421875px;
+margin-top: -50%;
+
+}
+.vertical__line__picture__perfect {
+    padding-left: 60px;
+    /* необходим для формирования позиций линии */
+    position: relative;
+    /* весь блок будет занимать ширину по размеру контента в нём */
+    display: inline-block;
+}
+
+.vertical__line__picture__perfect:before { 
+    
+padding-left: 4px;
+
+    content: " ";
+    background: #ADD4E0;
+
+    width: 0px; /* Изменено на 1px для вертикальной линии */
+    height: 216px; /* Изменено на 150px для вертикальной линии */
+    /* располагаем линию слева от текста */
+    /* Изменено на 0 для вертикального расположения */
+    /* включаем абсолютное позиционирование относительно блока с relative */
+    position: absolute;
+}
+.page__picture__perfect__middle{
+    width: 1440px;
+height: 272px;
+margin-top: -428.06px;
+
+}
+.title__page__picture__perfect{
+    width: 426px;
+height: 110px;
+margin-top: -6%;
+padding-left: 88px;
+
+}
+.title__page__picture__perfect__decaration{
+    font-family: Roboto;
+font-weight: 700;
+font-size: 50px;
+line-height: 55px;
+letter-spacing: 0%;
+color: #fff;
+}
+.title__page__picture__perfect__decaration__1{
+    width: 427px;
+height: 46px;
+margin-top: -10%;
+left: 88px;
+font-family: Roboto;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+letter-spacing: 0%;
+color: #FFFFFF;
+
+
+}
+.button__page__picture__perfect{
+    width: 86px;
+    height: 14px;
+   margin-top: 10%;
+    left: 88px;
+    
+   
+}
+.button__page__picture__perfect__decaration{
+    text-decoration: none;
+    color: #FFFFFF;
+    width: 60px;
+height: 20px;
+margin-top: -1.2px;
+font-family: Roboto;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0%;
+
+}
+.vertical__line__picture__perfect__mini {
+   padding-left: 60px;
+    /* необходим для формирования позиций линии */
+    position: relative;
+    /* весь блок будет занимать ширину по размеру контента в нём */
+    display: inline-block;
+    margin-top: 13%;
+}
+
+.vertical__line__picture__perfect__mini:before { 
+    
+padding-left: 4px;
+
+border-radius: 4px;
+
+
+    content: " ";
+    background: #615E5C;
+
+
+
+
+    width: 0px; /* Изменено на 1px для вертикальной линии */
+    height: 22px; /* Изменено на 150px для вертикальной линии */
+    /* располагаем линию слева от текста */
+    /* Изменено на 0 для вертикального расположения */
+    /* включаем абсолютное позиционирование относительно блока с relative */
+    position: absolute;
+}
+.vertical__line__picture__perfect__mini__1 {
+    padding-left: 60px;
+     /* необходим для формирования позиций линии */
+     position: relative;
+     /* весь блок будет занимать ширину по размеру контента в нём */
+     display: inline-block;
+     margin-top: 5%;
+ }
+ 
+ .vertical__line__picture__perfect__mini__1:before { 
+     
+ padding-left: 4px;
+ 
+ border-radius: 4px;
+ 
+ 
+     content: " ";
+     background: #615E5C;
+ 
+ 
+ 
+ 
+     width: 0px; /* Изменено на 1px для вертикальной линии */
+     height: 22px; /* Изменено на 150px для вертикальной линии */
+     /* располагаем линию слева от текста */
+     /* Изменено на 0 для вертикального расположения */
+     /* включаем абсолютное позиционирование относительно блока с relative */
+     position: absolute;
+ }
+ .title__page__picture__perfect__decaration__2{
+    width: 315px;
+height: 23px;
+margin-top: -25px;
+padding-left: 10px;
+font-family: Roboto;
+font-weight: 700;
+font-size: 17px;
+line-height: 23px;
+letter-spacing: 0%;
+color: #FFFFFF;
+
+ }
+ .title__page__picture__perfect__decaration__3{
+    width: 290px;
+height: 23px;
+padding-left:10px ;
+margin-top: -25px;
+font-family: Roboto;
+font-weight: 700;
+font-size: 17px;
+line-height: 23px;
+letter-spacing: 0%;
+color: #FFFFFF;
+
+ }
+

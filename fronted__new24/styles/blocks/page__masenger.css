@@ -1,0 +1,79 @@
+.page__mesenger{
+    width: 1440px;
+height: 1556px;
+
+
+}
+.img__masenger__and___icons{
+    width: 1264px;
+height: 710.575439453125px;
+top: 2499px;
+padding-right: 88px;
+display: flex;
+justify-content: center;
+
+
+}
+.img__masenger{
+    width: 632px;
+height: 632px;
+top: -0.06px;
+padding-right: 200px;
+
+}
+.icons__mesenger{
+    padding-right: 0px;
+    margin-top: 20px;
+    width: 60px;
+height: 60px;
+
+}
+.icons__masenger__1{
+    padding-right:180px ;
+    margin-top: 20px;
+}
+.title__page__mesenger{
+    width: 459px;
+height: 165px;
+margin-top: -47%;
+padding-left: 60%;
+
+}
+.title__page__mesenger__decaration{
+    font-family: Roboto;
+font-weight: 400;
+font-size: 50px;
+line-height: 55px;
+letter-spacing: 0%;
+color:  #1B365D;
+
+
+}
+.title__page__mesenger__decaration__1{
+    width: 485px;
+height: 46px;
+margin-top: -30px;
+padding-left: 0.13px;
+font-family: Roboto;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+letter-spacing: 0%;
+color:  #615E5C;
+
+
+}
+.title__page__mesenger__decaration__2{
+    width: 505px;
+height: 36px;
+top: 63px;
+padding-left: 0.13px;
+font-family: Roboto;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+letter-spacing: 0%;
+color: #AEABA8;
+
+
+}

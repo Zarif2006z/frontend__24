@@ -1,0 +1,13 @@
+@import url(fonts.css);
+@import url(base.css);
+@import url(blocks/footer.css);
+@import url(blocks/heder.css);
+@import url(blocks/home.css);
+@import url(blocks/page__Alexa.css);
+@import url(blocks/page__cameres.css);
+@import url(blocks/page__desing.css);
+@import url(blocks/page__masenger.css);
+@import url(blocks/page__picture__perfect.css);
+@import url(blocks/partal__cards__price.css);
+@import url(blocks/partall.css);
+@import url(base/normalize.css);

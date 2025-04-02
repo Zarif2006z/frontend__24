@@ -1,0 +1,80 @@
+.heder {
+    font-family: "Roboto", sans-serif;
+    width: 1440px;
+    height: 72px;
+    background: #fff;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.logo {
+    width: 108;
+    height: 53;
+    margin-top: 3px;
+    padding-left: -783px;
+
+}
+
+.button__heder {
+    padding-left: 651px;
+    width: 501;
+    height: 34;
+    margin-top: 19px;
+}
+
+.decaration__heder__button__0 {
+    text-decoration: none;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21.44px;
+    letter-spacing: 0%;
+    width: 69;
+    height: 22;
+    margin-top: 6px;
+    color: #1B365D;
+    ;
+
+
+}
+
+.decaration__heder__button {
+    width: 66;
+    height: 22;
+    margin-top: 6px;
+    padding-left: 90px;
+    text-decoration: none;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21.44px;
+    letter-spacing: 0%;
+    color: #1B365D;
+
+}
+
+.button__heder__1 {
+    width: 92;
+    height: 28;
+    margin-top: 19px;
+    padding-left: 5%;
+
+}
+
+.decaration__heder__button__1 {
+    width: 44;
+    height: 17;
+    top: 6px;
+    padding-left: 10px;
+
+    background: #fff;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 3px;
+    color: #1B365D;
+}

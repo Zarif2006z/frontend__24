@@ -1,0 +1,99 @@
+.page__cameres{
+    width: 1440px;
+height: 997px;
+top: -0.24px;
+
+background: linear-gradient(to bottom, #fff 50%, #D0E7EA 50%);
+    background-size: cover ;
+}
+    .title__page__cameres{
+        width: 682px;
+height: 110px;
+margin-top: -30px;
+padding-left: 88px;
+
+    }
+    .title__page__cameres__decaration{
+        font-family: Roboto;
+font-weight: 700;
+font-size: 50px;
+line-height: 55px;
+letter-spacing: 0%;
+color:  #1B365D;
+
+    }
+    .img__page__cameres{
+        width: 1264px;
+        height: 632px;
+        margin-top: 70px;
+        padding-left: 88px;
+        
+    }
+    .base__page__cameres{
+        width: 1180.8125px;
+height: 159px;
+
+margin-top: -10px;
+padding-left: 129.59px;
+display: flex;
+justify-content: center;
+    }
+    .base__page__cameres__1{
+        width: 286px;
+height: 30px;
+top: -2px;
+left: 0.41px;
+font-family: Roboto;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+letter-spacing: 0%;
+color: #1B365D;
+
+    }
+    .base__page__cameres__2{
+    
+padding-left: 563.98px;
+width: 272px;
+height: 30px;
+top: -0.06px;
+font-family: Roboto;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+letter-spacing: 0%;
+color: #1B365D;
+
+
+    }
+    .base__page__cameres__1__decaration__1{
+        width: 357px;
+height: 69px;
+margin-top: -20px;
+padding-left: 0.41px;
+font-family: Roboto;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+letter-spacing: 0%;
+
+
+    }
+    .button__page__cameres{
+        width: 150px;
+height: 20px;
+margin-top: 20px;
+left: 0.41px;
+
+
+    }
+    .button__page__cameres__decaration{
+        text-decoration: none;
+        font-family: Roboto;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0%;
+color: #1B365D;
+
+    }
